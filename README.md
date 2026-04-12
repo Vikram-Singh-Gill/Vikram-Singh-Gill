@@ -85,7 +85,7 @@ Right now, I’m focused on:
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/vikram-singh-gill)
+- LinkedIn: www.linkedin.com/in/vikram-singh-gill
 
 - Email: vkgill42@gmail.com
 
