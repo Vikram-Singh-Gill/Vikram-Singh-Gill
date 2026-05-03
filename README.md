@@ -29,48 +29,6 @@ My main interest is **offensive security**, especially **Active Directory**, **i
 
 ---
 
-## Featured Projects
-
-### Ghost-Cred
-A local-first CLI tool for managing pentest credentials, hosts, and engagement data.
-
-**Highlights:**
-- Store and organize usernames, passwords, hashes, hosts, and services
-- Track credential reuse across engagements
-- Generate password and hash wordlists for follow-up testing
-- Designed for simple CLI-based workflow management
-
-### Proof2Report
-A reporting and evidence organization tool for penetration testing engagements.
-
-**Highlights:**
-- Organize findings and proof-of-concept evidence
-- Structure notes for cleaner reporting workflows
-- Improve documentation and presentation of technical results
-
-### Ghostcall
-A simple reverse shell generator written in Python.
-
-**Highlights:**
-- Generate multiple reverse shell payload formats
-- Clean CLI usage
-- Easy-to-expand payload definitions
-
----
-
-## Tools & Technologies
-
-**Languages:**  
-Python, Bash, PowerShell, Java, C, C#, Swift, SQL
-
-**Security Tools:**  
-Nmap, Burp Suite, BloodHound, Impacket, NetExec, Evil-WinRM, Responder, Hashcat, Metasploit, Certipy, ldapsearch
-
-**Other Technologies:**  
-Angular, Spring Boot, Git, Linux, VMware
-
----
-
 ## What I'm Working Toward
 
 I’m building toward a career in **penetration testing / ethical hacking**, with a long-term focus on highly technical offensive security work.
