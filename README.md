@@ -13,7 +13,7 @@ My main interest is **offensive security**, especially **Active Directory**, **i
 - 🛡️ **PNPT certified**
 - 📚 Currently working toward **CPTS**, with **OSCP** planned next
 - 🔍 Focused on building hands-on offensive security skills through labs, tooling, and projects
-- 🇨🇦 Based in Ontario, targeting offensive security roles in the GTA and across Canada
+- 🍁 Based in Ontario, targeting offensive security roles in the GTA and across Canada
 
 ---
 
