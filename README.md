@@ -17,29 +17,6 @@ My main interest is **offensive security**, especially **Active Directory**, **i
 
 ---
 
-## Current Focus
-
-- Active Directory enumeration and exploitation
-- Internal network pentesting methodology
-- Web application testing
-- Privilege escalation and lateral movement
-- Python tool development for offensive security workflows
-- Building a portfolio that reflects real pentest value
-
----
-
-## What I'm Working Toward
-
-I’m building toward a career in **penetration testing / ethical hacking**, with a long-term focus on highly technical offensive security work.
-
-Right now, I’m focused on:
-- finishing CPTS
-- strengthening my GitHub portfolio
-- creating projects that are useful, practical, and relevant to real pentest work
-- preparing for offensive security roles in Canada
-
----
-
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/vikram-singh-gill
