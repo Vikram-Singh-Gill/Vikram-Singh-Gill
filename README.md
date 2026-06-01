@@ -23,4 +23,6 @@ My main interest is **offensive security**, especially **Active Directory**, **i
 
 - Email: vkgill42@gmail.com
 
+- HTB: https://app.hackthebox.com/public/users/2481533
+
 ---
