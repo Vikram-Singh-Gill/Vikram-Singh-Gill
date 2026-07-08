@@ -1,6 +1,6 @@
 # Hi, I'm Vikram Singh👋
 
-### Offensive Security Learner | PNPT | CPTS in Progress | Sheridan College Graduate
+### Offensive Security Learner | PNPT | CPTS | Sheridan College Graduate
 
 I’m a cybersecurity-focused developer and aspiring penetration tester based in Ontario, Canada.  
 My main interest is **offensive security**, especially **Active Directory**, **internal network pentesting**, **web testing**, and building practical tools that improve real pentest workflows.
@@ -11,7 +11,8 @@ My main interest is **offensive security**, especially **Active Directory**, **i
 
 - 🎓 Advanced Diploma in **Software Development and Network Engineering**
 - 🛡️ **PNPT certified**
-- 📚 Currently working toward **CPTS**, with **OSCP** planned next
+- 🛡️ **CPTS certified**
+- 📚 Currently working towards**OSCP**
 - 🔍 Focused on building hands-on offensive security skills through labs, tooling, and projects
 - 🍁 Based in Ontario, targeting offensive security roles in the GTA and across Canada
 
@@ -23,6 +24,5 @@ My main interest is **offensive security**, especially **Active Directory**, **i
 
 - Email: vkgill42@gmail.com
 
-- HTB: https://app.hackthebox.com/public/users/2481533
 
 ---
